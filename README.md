@@ -13,5 +13,5 @@ java.version 17
 Сборщик Maven
 Spring Boot
 Spring Web
-lombok
+Lombok
 javax validation
